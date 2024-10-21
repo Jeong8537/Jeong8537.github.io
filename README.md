@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Coding+Is+Suicide!;Coding+Is+Suicide!)](https://git.io/typing-svg)
 
 <p align="center" display="flex">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=jeong8537&show_icons=true&theme=dark"><img height="210em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeong8537&layout=compact&theme=dark">
+  <img height="210em" width="45%" src="https://github-readme-stats.vercel.app/api?username=jeong8537&show_icons=true&theme=dark"><img height="210em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeong8537&layout=compact&theme=dark">
 </p>
 
 <h3 align="center">📖Studying</h3>
