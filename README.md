@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Coding+Is+Suicide!;Coding+Is+Suicide!)](https://git.io/typing-svg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeong8537&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeong8537&layout=donut&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeong8537&layout=compact&theme=dark)
 
 
 <h3 align="center">Studying</h3>
