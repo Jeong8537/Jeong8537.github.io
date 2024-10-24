@@ -10,17 +10,17 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 </div>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-199-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-🌆 Daytime                9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-🌃 Evening                63 commits          █████████████░░░░░░░░░░░░   50.40 % 
-🌙 Night                  37 commits          ███████░░░░░░░░░░░░░░░░░░   29.60 % 
+🌞 Morning                17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+🌆 Daytime                9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+🌃 Evening                63 commits          ████████████░░░░░░░░░░░░░   50.00 % 
+🌙 Night                  37 commits          ███████░░░░░░░░░░░░░░░░░░   29.37 % 
 ```
 
 
@@ -55,5 +55,5 @@ PHP                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jeong8537/Jeong8537/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2024 15:02:36 UTC
+ Last Updated on 24/10/2024 15:08:37 UTC
 <!--END_SECTION:waka-->
