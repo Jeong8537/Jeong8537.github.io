@@ -20,7 +20,7 @@ jobs:
           SHOW_OS: False
           SHOW_SHORT_INFO: False
           SHOW_UPDATED_DATE: False
-          SYMBOL_VERSION: 3
+          SYMBOL_VERSION: 2
           SHOW_LOC_CHART: False
           SHOW_TIMELINE: False
           SHOW_TIMEZONE: False
