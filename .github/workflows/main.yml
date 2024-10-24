@@ -24,6 +24,9 @@ jobs:
           SHOW_LOC_CHART: False
           SHOW_TIMELINE: False
           SHOW_TIMEZONE: False
+          SHOW_TOTAL_CODE_TIME: False
+          SHOW_PROFILE_VIEWS: False
+          LOCALE: "ko"
           
           
           
