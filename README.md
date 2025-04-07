@@ -3,9 +3,9 @@
   </a>
 
 <body>
-  <div align=center>
-    <div style="float:left; width: 48%; margin-right:4%;"><img width="400em" src="https://github-readme-stats.vercel.app/api?username=jeong8537&show_icons=true&theme=dark"></div>
-    <div style="float:left; width: 48%;"><img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeong8537&layout=compact&theme=dark"></div>
+  <div align="center" style="display:flex; justify-content: space-between; gap: 4%; flex-wrap: wrap;">
+    <div style="flex:1; max-width: 48%;"><img width="400em" src="https://github-readme-stats.vercel.app/api?username=jeong8537&show_icons=true&theme=dark"></div>
+    <div style="flex:1; max-width: 48%;"><img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeong8537&layout=compact&theme=dark"></div>
   </div>  
   <div style="clear: both;"></div>
   <div>
