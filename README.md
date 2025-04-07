@@ -1,8 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Studying+Coding+...!;Studying+Currently+...!)](https://git.io/typing-svg)
 
-<p>
-  <img align="top-left" width="400em" src="https://github-readme-stats.vercel.app/api?username=jeong8537&show_icons=true&theme=dark"><img align="top-right" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeong8537&layout=compact&theme=dark">
-</p>
+
+<div><img width="400em" src="https://github-readme-stats.vercel.app/api?username=jeong8537&show_icons=true&theme=dark"></div>
+<div><img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeong8537&layout=compact&theme=dark"></div>
+
 
 <h3 align="center">📖Studying</h3>
 <hr>
